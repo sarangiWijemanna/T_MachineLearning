@@ -44,8 +44,8 @@ from sklearn.linear_model import LogisticRegression
 model = LogisticRegression(random_state=0)
 model.fit(X_train, Y_train)
 
-"""### *Prediction for all Test Data*"""
 
+"""### *Prediction for all Test Data*"""
 y_pred = model.predict(X_test)
 print(np.concatenate((y_pred.reshape(len(y_pred), 1), Y_test.reshape(len(Y_test), 1)), 1))
 

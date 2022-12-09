@@ -3,14 +3,14 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\Day 1 -  Sale Prediction using LOGISTIC REGRESSION\1.csv">
+        <entry key="\Day 1 -  Sale Prediction using LOGISTIC REGRESSION\Advertisement Sale Dataset.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\Day 1 -  Sale Prediction using LOGISTIC REGRESSION\Advertisement Sale Dataset.csv">
+        <entry key="\Day 2 - Salary Estimator Using K-NearestNeighbour\Salary Estimator Dataset.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
