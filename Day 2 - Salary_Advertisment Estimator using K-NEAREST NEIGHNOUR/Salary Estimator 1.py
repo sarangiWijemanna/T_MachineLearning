@@ -1,4 +1,4 @@
-# Day-4 -  Salary Estimation | K-NEAREST NEIGHBOUR model
+# Day 2.1 -  Salary Estimation | K-NEAREST NEIGHBOUR model
 
 # Importing Libraries
 import pandas as pd  # Performed the Loading Dataset
@@ -51,6 +51,7 @@ print(f' Y_test: {Y_test.shape}')
 # we scale data to make all the features contribute equally to the final result
 # Fit_Transform - fit method is calculating the mean and variance of each of the features present in our data
 # Transform - Transform method is transforming all the features using the respective mean and variance,
+
 # We want our test data to be a completely new and a surprise set for our model
 print("\n5. Feature Scaling:")
 from sklearn.preprocessing import StandardScaler

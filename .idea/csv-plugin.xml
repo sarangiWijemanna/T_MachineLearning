@@ -10,7 +10,14 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\Day 2 - Salary Estimator Using K-NearestNeighbour\Salary Estimator Dataset.csv">
+        <entry key="\Day 2 - Salary_Advertisment Estimator using K-NEAREST NEIGHNOUR\Salary Estimator Dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Day 4 - Titanic Survival Predictionm using NAIVE BAYES\Titanic Survival Prediction Dataset.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
