@@ -1,4 +1,4 @@
-#### Day 4 - _Titanic Survival Prediction_NAIVEBAYES
+### Day 4 - _Titanic Survival Prediction_NAIVEBAYES
 
 #### Step 1 - Load and Summarized Dataset
 #### Step 2 - Mapping Text Data to Binary Data
