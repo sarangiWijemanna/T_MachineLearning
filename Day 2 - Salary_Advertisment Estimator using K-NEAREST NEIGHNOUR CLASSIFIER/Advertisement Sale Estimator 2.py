@@ -8,8 +8,7 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split  # Splitting Dataset into Train & Test
 from sklearn.preprocessing import StandardScaler  # Feature Scaling
 from sklearn.neighbors import KNeighborsClassifier  # Find K Value and Training Model
-from sklearn.metrics import confusion_matrix, accuracy_score    # Evaluating Model - CONFUSION MATRIX
-
+from sklearn.metrics import confusion_matrix, accuracy_score  # Evaluating Model - CONFUSION MATRIX
 
 print("Day 4.2 -  Advertisement Sale Estimation | K-NEAREST NEIGHBOUR model")
 
@@ -84,7 +83,7 @@ plt.show()
 """## Training """
 print("\n7. Training:  trained")
 
-model = KNeighborsClassifier(n_neighbors= 15, metric='minkowski', p=2)
+model = KNeighborsClassifier(n_neighbors=15, metric='minkowski', p=2)
 model.fit(X_train, Y_train)
 
 # Prediction for all Test Data
