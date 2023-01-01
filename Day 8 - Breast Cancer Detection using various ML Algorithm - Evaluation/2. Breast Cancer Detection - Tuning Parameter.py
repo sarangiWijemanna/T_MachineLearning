@@ -97,7 +97,7 @@ for j in range(1, 10):
 # plt.ylabel('score')'''
 # Parameters = criterion='entropy', max_depth=2, random_state=0
 
-#  RANDOM FOREST
+#  RANDOM FOREST Tuning Parameter
 # Parameters = n_estimators=500, criterion='gini', max_depth=25,  bootstrap=False, random_state=0
 
 """## Validating some ML algorithm by its accuracy - Model Score"""
