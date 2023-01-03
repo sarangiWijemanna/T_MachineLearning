@@ -1,4 +1,4 @@
-### Day-11 | House price prediction using Linear Regression-Single Variable✈
+### Day 9 | House price prediction using Linear Regression-Single Variable✈
 
 #### Step 1 --> Finding the Problem - Application
 #### Step 2 --> Collecting Dataset
