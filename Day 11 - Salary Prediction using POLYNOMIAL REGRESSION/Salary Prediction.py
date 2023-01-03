@@ -44,7 +44,7 @@ from sklearn.preprocessing import PolynomialFeatures
 
 model_Poly_R = PolynomialFeatures(degree=4)
 xPloy = model_Poly_R.fit_transform(X)
-print(f'    X = \n{xPloy}')
+# print(f'    X = \n{xPloy}')
 
 # Step 2 - Training LR using Polynomial format feature (X --> X^n)
 model_Poly_LR = LinearRegression()
