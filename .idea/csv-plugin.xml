@@ -3,13 +3,6 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\Day 12 - Exam mark prediction using LINEAR REGRESSION - MULTIPLE VALUES\House Price Prediction Dataset.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\Day 12 - Stock Prediction using SUPPORT VECTOR REGRESSION\Stock Prediction Dataset.csv">
           <value>
             <Attribute>
