@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Day 14 - Car Price Prediction using RANDOM FOREST REGRESSION\Car Price Prediction Dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Day 8 - Breast Cancer Detection using various ML Algorithm - Evaluation\Breast Cancer Detection Datasheet.csv">
           <value>
             <Attribute>
