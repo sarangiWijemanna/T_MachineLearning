@@ -22,6 +22,4 @@
 
 - Step 10 - Prediction
 
-### Screenshots
 
-   ![App Screenshot](https://github.com/sarangiWijemanna/T_MachineLearning/1-Sale Prediction using LOGISTIC REGRESSION CLASSIFIER/blob/main/ML_1.png)
