@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../1.  FINAL YEAR PROJECT/STUDY/2__Python/.idea/2__Python.iml" filepath="$PROJECT_DIR$/../../1.  FINAL YEAR PROJECT/STUDY/2__Python/.idea/2__Python.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Machine Learning.iml" filepath="$PROJECT_DIR$/.idea/Machine Learning.iml" />
       <module fileurl="file://$PROJECT_DIR$/../STUDY/BRO CODE/.idea/PYthon.iml" filepath="$PROJECT_DIR$/../STUDY/BRO CODE/.idea/PYthon.iml" />
     </modules>
