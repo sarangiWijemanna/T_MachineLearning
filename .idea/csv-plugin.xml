@@ -3,35 +3,63 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\Day  16 - Regression Model Selection for Engine Energy Prediction\Engine Energy Prediction Dataset.csv">
+        <entry key="\10 - Exam mark prediction using LINEAR REGRESSION - MULTIPLE VALUES\Exam Mark Dataset.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\Day 12 - Stock Prediction using SUPPORT VECTOR REGRESSION\Stock Prediction Dataset.csv">
+        <entry key="\10 - Exam mark prediction using LINEAR REGRESSION - MULTIPLE VALUES\House Price Prediction Dataset.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\Day 14 - Car Price Prediction using RANDOM FOREST REGRESSION\Car Price Prediction Dataset.csv">
+        <entry key="\11 - Salary Prediction using POLYNOMIAL REGRESSION\Salary Prediction Dataset.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\Day 8 - Breast Cancer Detection using various ML Algorithm - Evaluation\Breast Cancer Detection Datasheet.csv">
+        <entry key="\14 - Car Price Prediction using RANDOM FOREST REGRESSION\Car Price Prediction Dataset.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\Day 9 - House Price Prediction using LINEAR REGRESSION - SINGLE VALUES\House Price Prediction Dataset.csv">
+        <entry key="\16 - Regression Model Selection for Engine Energy Prediction\Engine Energy Prediction Dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\17 - Income Spent Clustering using K-Means\Income Spent Dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\2 - Salary_Advertisment Estimator using K-NEAREST NEIGHNOUR CLASSIFIER\Salary Estimator Dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\4 - Titanic Survival Predictionm using NAIVE BAYES CLASSIFIER\Titanic Survival Prediction Dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\8 - Breast Cancer Detection using various ML Algorithm - Evaluation\Breast Cancer Detection Datasheet.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

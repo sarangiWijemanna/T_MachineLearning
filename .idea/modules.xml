@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../../1.  FINAL YEAR PROJECT/STUDY/2__Python/.idea/2__Python.iml" filepath="$PROJECT_DIR$/../../1.  FINAL YEAR PROJECT/STUDY/2__Python/.idea/2__Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Artificial Intelligence/.idea/AAA.iml" filepath="$PROJECT_DIR$/../Artificial Intelligence/.idea/AAA.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Machine Learning.iml" filepath="$PROJECT_DIR$/.idea/Machine Learning.iml" />
       <module fileurl="file://$PROJECT_DIR$/../STUDY/BRO CODE/.idea/PYthon.iml" filepath="$PROJECT_DIR$/../STUDY/BRO CODE/.idea/PYthon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RESEARCH PROJECT __OSA/.idea/RESEARCH PROJECT __OSA.iml" filepath="$PROJECT_DIR$/../RESEARCH PROJECT __OSA/.idea/RESEARCH PROJECT __OSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PYTHON/.idea/STUDY.iml" filepath="$PROJECT_DIR$/../PYTHON/.idea/STUDY.iml" />
     </modules>
   </component>
 </project>

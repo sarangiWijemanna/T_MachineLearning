@@ -120,6 +120,7 @@ modelDTRy_prediction = model_DTR.predict(X_test)
 modelSVRy_prediction = model_SVR.predict(sc_X.transform(X_test_svm))
 
 
+
 """Evaluating the Model Performance"""
 print("\n8. Evaluating the Model Performance:")
 
@@ -129,5 +130,9 @@ print("Polynomial Regression Accuracy: {}".format(r2_score(Y_test, modelPLRy_pre
 print("Random Forest Regression Accuracy: {}".format(r2_score(Y_test, modelRFRy_prediction)))
 print("Decision Tree Regression Accuracy: {}".format(r2_score(Y_test, modelDTRy_prediction)))
 print("Support Vector Regression Accuracy: {}".format(r2_score(Y_test, modelSVRy_prediction)))
+
+
+
+
 
 
