@@ -1,5 +1,5 @@
-" Day 20 | Customer Spending Analysis Using Hierarchical Clustering - UNSUPERVISED LEARNING"""
-print("Day 20 | Customer Spending Analysis Using Hierarchical Clustering - UNSUPERVISED LEARNING")
+" Day 18 | Customer Spending Analysis Using Hierarchical Clustering - UNSUPERVISED LEARNING"""
+print("Day 18 | Customer Spending Analysis Using Hierarchical Clustering - UNSUPERVISED LEARNING")
 
 " Importing the basic libraries"""
 

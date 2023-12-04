@@ -1,6 +1,6 @@
 # 💛 UNSUPERVISED LEARNING | Hierarchical Clustering ⚖🌲
 
-## Day 20 | Customer Spending Analysis 🙂
+## Day 18 | Customer Spending Analysis 🙂
 
 ### Step 1 :  Find Problem 
 

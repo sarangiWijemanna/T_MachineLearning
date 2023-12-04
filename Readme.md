@@ -57,7 +57,9 @@ Supervised learning is a type of machine learning where the computer is trained 
 > Unsupervised learning is like exploring an unknown territory without a map or guide. The computer is given unlabeled data and tasked with finding patterns or relationships on its own, without prior knowledge of the categories or labels. It's like discovering hidden structures or insights in data that would be difficult or impossible for a human to find. 
 
  ✅ [Day-17: Income Spent Clustering using K-Means.](https://github.com/sarangiWijemanna/T_MachineLearning/tree/main/17%20-%20Income%20Spent%20Clustering%20using%20K-Means)
- ✅ [Day-20: Customer Spending analysis using HIERARCHICAL CLUSTERING]()
+ ✅ [Day-18: Customer Spending analysis using HIERARCHICAL CLUSTERING]()
+ ✅ [Day-19: Clustering Plant Iris using Principal Component Analysis]()
+
                              
 ## Tech Stack  
 
