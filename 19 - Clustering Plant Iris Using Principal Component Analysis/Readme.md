@@ -77,7 +77,7 @@
       - Feature Vector - Both Eigen vectors
         - <img align="center" src="Both Eigen vectors.png" alt="icon"/>
       - Feature Vector - Only one Eigen vectors
-        - <img align="center" src="Only one Eigen vectors.png" alt="icon"/>
+        - <img align="center" src="Eigen vectors.png" alt="icon"/>
       
     
   - **Recasting Data along the axes of Principal components**
